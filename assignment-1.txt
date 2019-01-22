@@ -1,0 +1,57 @@
+1.Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1500 and 2700 (both included). 
+
+2.Write a Python program which iterates the integers from 1 to 50. For multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+
+	Sample Output : 
+		fizzbuzz
+		1
+		2
+		fizz
+		4 
+		buzz 
+
+3.Assume v is a list containing numbers. Write Python code to find and print the highest two values in v. If the list contains only one number, print only that number. If the list is empty, print nothing. For example, if we assigned 
+v = [ 7, 3, 1, 5, 10, 6 ]
+
+4. Write a Python program that sums all of the first integers, the second integers, and the third integers, outputting the resulting sums all. As a simple example, if the input is 
+[2, 5,7] 
+[3, 6, 10]
+[1, 2, -3]
+[2, 4, 1]
+Then the output should be
+[8, 17, 15]
+
+5.Write a while loop to add all of the numbers in a list v until it reaches a negative number or until it reaches the end of the list. Store the sum in the variable result. Your code should work for any version of v containing only numbers.
+
+v = [ 10, 12, 3, -5, 5, 6 ]
+v = [ 0, 10, 3, 6, 5, 1 ]
+
+6. Suppose a list of words in alphabetical order has been assigned to the variable called words. For example,
+we might have the assignment words = [ aardvark , abaka, expedite, experience, shoetrees, tastetest, test ]
+
+Write code to find and output the first and the last string in words that start and end with the same letter and are at least 8 characters long. You may assume that at least one word in words satisfies this condition.
+
+For the above example, the output should be
+expedite
+tastetest
+
+7. You need to write a function to implement an algorithm which will accept a string of characters and should find the highest occurrence of the character and display it.
+ For example if input is "aaaaaaaaaaaaaaaaabbbbcddddeeeeee" it should return "a".
+
+8. write a program to print the list after removing the 0th, 2nd, 4th,6th numbers in [12,24,35,70,88,120,155].
+
+9. Write a C program to read elements in a matrix and check whether matrix is an Identity matrix or not
+Identity matrix is a special square matrix whose diagonal elements is equal to 1 and other elements are 0.
+
+Input
+Input elements in matrix: 
+1 0 0
+0 1 0
+0 0 1
+Output
+It is an Identity matrix
+
+
+
+
+
